@@ -1,2 +1,2 @@
-# sisterslab-python-akademi-odev
-Sisterslab akademi boyunca yapacağımız ödevler ve uygulamalar bu repo içerisinde yer alacaktır.
+# sisterslab-woman in tech-python-akademi-odev
+Sisterslab Woman In Tech Akademi 2.dönem eğitimi boyunca yaptığımız ödevler bu repo içerisinde yer alacaktır.
